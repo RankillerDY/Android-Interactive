@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="true_random_number_generator">True Random Number Generator</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+    <string name="_1">1</string>
+    <string name="_100">100</string>
+    <string name="generate">Generate</string>
+    <string name="result">Result: %1$.2f</string>
+    <string name="nh_p_s_th_nh_t">Nhập số thứ nhất</string>
+    <string name="nh_p_s_th_hai">Nhập số thứ hai</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="log_in_ins">Log In</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="log_in_with_facebook">Log in with Facebook</string>
+    <string name="or">------------------------------------------------OR------------------------------------------------</string>
+    <string name="have_an_account_sign_in">Have an account? Sign In.</string>
+
+</resources>

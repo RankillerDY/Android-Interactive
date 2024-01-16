@@ -1,0 +1,12 @@
+
+n	java:S116"RRename this field "REQUIRE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ğıÕ8ĞŒŠíĞ1
+>
+java:S1170"!Make this final field static too.(´ğıÕ8àŒŠíĞ1
+j
+java:S1659"HDeclare "txtPassword" and all following declarations on a separate line.(µÆµûÿÿÿÿ8ãŒŠíĞ1
+|
+java:S1450"ZRemove the "haveAccount" field and declare it as a local variable in the relevant methods.(µÆµûÿÿÿÿ8äŒŠíĞ1
+x
+java:S1450"[Remove the "signUpButton" field and declare it as a local variable in the relevant methods.(Ì ü8åŒŠíĞ1
+8
+java:S3626<"Remove this redundant jump.(ûÁİ…8€ŠíĞ1

@@ -1,0 +1,15 @@
+
+
+java:S1192-"kDefine a constant instead of duplicating this literal "Please enter both first and second values." 4 times.(Âà½§şÿÿÿÿ8…ˆµãĞ1
+š
+java:S1192:"xDefine a constant instead of duplicating this literal "Please enter valid integer values for first and second." 4 times.(­«†Áüÿÿÿÿ8†ˆµãĞ1
+J
+java:S1604%"(Make this anonymous inner class a lambda(‚¾§…úÿÿÿÿ8‡ˆµãĞ1
+J
+java:S1604?"(Make this anonymous inner class a lambda(‚ÿÕ¿ûÿÿÿÿ8‡ˆµãĞ1
+E
+java:S1604Y"(Make this anonymous inner class a lambda(Ş¶±–8‡ˆµãĞ1
+E
+java:S1604s"(Make this anonymous inner class a lambda(ğ…Îş8‡ˆµãĞ1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(¨Œşÿÿÿÿ8©ˆµãĞ1
